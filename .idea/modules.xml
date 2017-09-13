@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SmartMonitor(eclipse).iml" filepath="$PROJECT_DIR$/SmartMonitor(eclipse).iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartMonitor/smartMonitor.iml" filepath="$PROJECT_DIR$/smartMonitor/smartMonitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/standOutSDK/standOutSDK.iml" filepath="$PROJECT_DIR$/standOutSDK/standOutSDK.iml" />
+    </modules>
+  </component>
+</project>

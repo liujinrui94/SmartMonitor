@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\one_content.png",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\drawable-xhdpi\\one_content.png"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\one_bottom.png",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\drawable-xhdpi\\one_bottom.png"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\one_to_five.png",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\drawable-xhdpi\\one_to_five.png"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\three.png",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\drawable-xhdpi\\three.png"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\two_btn.png",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\drawable-xhdpi\\two_btn.png"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\two.png",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\drawable-xhdpi\\two.png"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\four.png",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\drawable-xhdpi\\four.png"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home.png",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\drawable-xhdpi\\home.png"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\five.png",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\drawable-xhdpi\\five.png"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\three_content.png",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\drawable-xhdpi\\three_content.png"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\two_top.png",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\drawable-xhdpi\\two_top.png"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\one_phone_2.png",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\drawable-xhdpi\\one_phone_2.png"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\one_phone_1.png",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\drawable-xhdpi\\one_phone_1.png"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title.png",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\drawable-xhdpi\\title.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\top_bg.gif",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\drawable-hdpi\\top_bg.gif"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\page3_bg.jpg",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\drawable-hdpi\\page3_bg.jpg"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\page4_top2_bg.gif",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\drawable-hdpi\\page4_top2_bg.gif"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\button_bg.xml",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\drawable-hdpi\\button_bg.xml"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg.jpg",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\drawable-hdpi\\bg.jpg"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\page1_bg.jpg",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\drawable-hdpi\\page1_bg.jpg"
+    }
+]

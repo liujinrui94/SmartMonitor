@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\layout\\activity_note5.xml",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\layout\\activity_note5.xml"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\layout\\drop_down_list_item.xml",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\standOutSDK\\build\\intermediates\\bundles\\default\\res\\layout\\drop_down_list_item.xml"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\layout\\activity_page3.xml",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\layout\\activity_page3.xml"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\layout\\dail_dialog_lg.xml",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\layout\\dail_dialog_lg.xml"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\layout\\act_main.xml",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\layout\\act_main.xml"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\layout\\activity_page5.xml",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\layout\\activity_page5.xml"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\layout\\activity_page2.xml",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\layout\\activity_page2.xml"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\layout\\activity_phone.xml",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\layout\\activity_phone.xml"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\layout\\activity_page1.xml",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\layout\\activity_page1.xml"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\layout\\dail_dialog_sky.xml",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\layout\\dail_dialog_sky.xml"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\layout\\activity_page4.xml",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\layout\\activity_page4.xml"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\debug\\layout\\system_window_decorators.xml",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\standOutSDK\\build\\intermediates\\bundles\\default\\res\\layout\\system_window_decorators.xml"
+    }
+]

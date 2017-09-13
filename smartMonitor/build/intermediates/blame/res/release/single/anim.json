@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\release\\anim\\in_from_left.xml",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\anim\\in_from_left.xml"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\release\\anim\\new_dync_out_to_left.xml",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\anim\\new_dync_out_to_left.xml"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\release\\anim\\new_dync_in_from_right.xml",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\anim\\new_dync_in_from_right.xml"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\build\\intermediates\\res\\merged\\release\\anim\\out_to_right.xml",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\smartMonitor\\src\\main\\res\\anim\\out_to_right.xml"
+    }
+]

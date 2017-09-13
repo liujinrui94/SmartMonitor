@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\standOutSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\hide.png",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\standOutSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\hide.png"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\standOutSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\close.png",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\standOutSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\close.png"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\standOutSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\maximize.png",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\standOutSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\maximize.png"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\standOutSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\corner.png",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\standOutSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\corner.png"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\standOutSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\border_focused.9.png",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\standOutSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\border_focused.9.png"
+    },
+    {
+        "merged": "E:\\studio\\SmartMonitor(eclipse)\\standOutSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\border.9.png",
+        "source": "E:\\studio\\SmartMonitor(eclipse)\\standOutSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\border.9.png"
+    }
+]

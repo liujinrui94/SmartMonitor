@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\studio\SmartMonitor(eclipse)\standOutSDK\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74b19e3b6ba64b0cc3d8b01d9a7362b4269a4409">
+        <dex dex="E:\studio\SmartMonitor(eclipse)\smartMonitor\build\intermediates\pre-dexed\debug\classes_e9fd9398704f4a21365d175c260c8d830da9a40f.jar" />
+    </item>
+
+</items>
